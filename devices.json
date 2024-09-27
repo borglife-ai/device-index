@@ -1,1 +1,28 @@
-{}
+{
+  "testdev1": {
+    "name": "Test Device 1",
+    "versions": {
+      "1.0.0": {
+        "systemVersion": "0.1",
+        "binaries": {
+          "aarch64-unknown-linux-gnu": "/ipfs/QmPQqenerWGemsMnSAWqT33PLpdVGaivW48JumpUjFuZwt",
+          "x86_64-unknown-linux-gnu": "/ipfs/QmWBaeu6y1zEcKbsEqCuhuDHPL3W8pZouCPdafMCRCSUWk"
+        }
+      },
+      "1.0.1": {
+        "systemVersion": "0.1",
+        "binaries": {
+          "aarch64-unknown-linux-gnu": "/ipfs/QmPK1s3pNYLi9ERiq3BDxKa4XosgWwFRQUydHUtz4Ygpq1",
+          "x86_64-unknown-linux-gnu": "/ipfs/QmWBaeu6y1zEcKbsEqCuhuDHPL3W8pZouCPdafMCRCSUW2"
+        }
+      },
+      "2.0.4": {
+        "systemVersion": "0.1",
+        "binaries": {
+          "aarch64-unknown-linux-gnu": "/ipfs/QmPK1s3pNYLi9ERiq3BDxKa4XosgWwFRQUydHUtz4Ygpq1",
+          "x86_64-unknown-linux-gnu": "/ipfs/QmWBaeu6y1zEcKbsEqCuhuDHPL3W8pZouCPdafMCRCSUW2"
+        }
+      }
+    }
+  }
+}
